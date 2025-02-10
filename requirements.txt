@@ -1,0 +1,7 @@
+python-chess
+langchain
+langchain-deepseek-official
+langchain-google-genai
+google-generativeai
+fastapi
+uvicorn
